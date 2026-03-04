@@ -12,3 +12,10 @@
     margin-right: auto;     /* Empuja desde la derecha al centro */
     margin-top: 20px;       /* Este es tu "Top": el espacio desde arriba */
 }
+
+
+@media (max-width: 600px) {  /* Esto solo se activa en pantallas pequeñas (celulares) */
+    .logo-empresa {
+        width: 150px;        /* Logo un poco más pequeño para que no ocupe toda la pantalla */
+    }
+    
