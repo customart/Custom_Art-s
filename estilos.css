@@ -9,7 +9,8 @@ header {
    background-color: #ffffff;
    width: 100%;
    padding: 25px;
-   
+   display: block;
+  
 }
 
 .logo-empresa {
@@ -17,7 +18,6 @@ header {
    display: block;         /* Esto le dice que es un bloque sólido */
    margin-left: auto;      /* Empuja desde la izquierda al centro */
    margin-right: auto;     /* Empuja desde la derecha al centro */
-   margin-top: 20px;       /* Este es tu "Top": el espacio desde arriba */
 }
 
 
