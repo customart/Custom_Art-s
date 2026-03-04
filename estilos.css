@@ -8,14 +8,14 @@ body {
 .logo-empresa {
    width: 200px;           /* El tamaño que ya elegiste */
    display: block;         /* Esto le dice que es un bloque sólido */
-   center:  auto;
+   margin-left: auto;
 }
 
 .barra-superior {
    background-color: #ffffff;
    width: 100%;
-   padding: 25px;
-   display: auto;
+   padding: 0px;
+   display: block;
 }
 
 @media (max-width: 600px) {  /* Esto solo se activa en pantallas pequeñas (celulares) */
