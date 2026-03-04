@@ -16,8 +16,7 @@ header {
 .logo-empresa {
    width: 200px;           /* El tamaño que ya elegiste */
    display: block;         /* Esto le dice que es un bloque sólido */
-   margin-left: auto;      /* Empuja desde la izquierda al centro */
-   margin-right: auto;     /* Empuja desde la derecha al centro */
+   center:  100%;
 }
 
 
