@@ -1,1 +1,12 @@
 
+        body {
+            background-color: #121212; /* Fondo oscuro elegante */
+            color: white;              /* Letras blancas */
+            text-align: center;        /* Todo al centro */
+            font-family: Arial, sans-serif;
+        }
+
+        .logo-empresa {
+            width: 200px;              /* Tamaño del logo */
+            margin-top: 50px;          /* Espacio desde el borde superior */
+        }
