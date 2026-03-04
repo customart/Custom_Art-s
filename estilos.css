@@ -16,7 +16,7 @@ div {
 .logo-empresa {
    width: 200px;           /* El tamaño que ya elegiste */
    display: block;         /* Esto le dice que es un bloque sólido */
-   center:  100%;
+   center:  auto;
 }
 
 
