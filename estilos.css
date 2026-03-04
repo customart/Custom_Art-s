@@ -1,9 +1,13 @@
-        body {
-            background-color: #121212; /* Fondo oscuro elegante */
-            color: white;              /* Letras blancas */
-            text-align: center;        /* Todo al centro */
-            font-family: Arial, sans-serif;
-        }
+body {
+   background-color: #121212; /* Fondo oscuro elegante */
+   color: white;              /* Letras blancas */
+   text-align: center;        /* Todo al centro */                
+   font-family: Arial, sans-serif;
+}
+
+.header{
+    background-color: #ffffff 
+}
 
 .logo-empresa {
     width: 200px;           /* El tamaño que ya elegiste */
@@ -15,7 +19,7 @@
 
 
 @media (max-width: 600px) {  /* Esto solo se activa en pantallas pequeñas (celulares) */
-    .logo-empresa {
+.logo-empresa {
         width: 150px;        /* Logo un poco más pequeño para que no ocupe toda la pantalla */
     }
     
